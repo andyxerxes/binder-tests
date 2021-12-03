@@ -1,3 +1,4 @@
 # specify requirements: Binder needs this
 numpy
 matplotlib
+bokeh
